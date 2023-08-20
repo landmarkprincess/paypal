@@ -5,3 +5,4 @@ staging
 God is good
 in uat
 deploy in production
+performance testing is good
